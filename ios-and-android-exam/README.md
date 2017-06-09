@@ -28,6 +28,6 @@ The UI should have:
     - main.temp_min
     - main.temp_max
 
-We aren't providing a mockup because we want to see how you would organize the objects in your storyboard with autolayout.
+We aren't providing a mockup because we want to see how you would organize the objects in your storyboard.
 
 Make it happen and show your strengths!
