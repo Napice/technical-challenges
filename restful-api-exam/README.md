@@ -1,5 +1,22 @@
+# RESTful API exam
+
+You should create:
+- models 
+- controllers
+- GET requests
+- JSON responses 
+- tests for your controllers and models
+
+The following routes should return JSON response:
+
+- /campaigns
+- /ad_groups
+- /expanded_text_ad
+
+Please host your demo on Heroku. 
+
 ``` ruby
-# Create a restful API where that mimics adwords
+# Create a restful API based on this JSON response
 
 campaigns = [
   {
