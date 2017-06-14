@@ -1,4 +1,4 @@
-### React/Angular exercise
+# React.js/Angular exercise
 
 Make a step progress component.
 

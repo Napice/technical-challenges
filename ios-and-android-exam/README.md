@@ -1,10 +1,14 @@
 # iOS/Android exam
 
-Main goal: create a simple weather app.
+Create a simple weather app.
+
+### Important points
 
 Your weather app should have:
 - a MVC architecture
 - tests, please
+
+### Instructions
 
 You should use the following API:
 
