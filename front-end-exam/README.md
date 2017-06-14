@@ -1,10 +1,10 @@
-React/Angular exercise
+### React/Angular exercise
 
 Make a step progress component.
 
-![alt]()
+![alt](https://github.com/vbrazo/napice-exam/blob/master/front-end-exam/progress-bar.png?raw=true)
 
-### 📖 Specs
+### Important points
 
 - Number of steps are dynamic
 - You can only go back to the previous step not forward
@@ -12,16 +12,15 @@ Make a step progress component.
 - You can't jump from the first to the last step
 - Write a simple test to check if the state has changed after click
 
-### 🔥 Instructions
+### Instructions
 
 - This component is used within a builder tool it's dumb
 - Make use of ES6
 - Use stateless components when possible
-- Demostrate you understand React's component life cycle
+- Demostrate you understand component life cycle
 - Enhance the component with simple animations is a nice to have
-- Don't worry if you don't finish all. Try to finish as much as you can within the time
 
-### 📦 How you should deliver this project
+### How you should deliver this project
 
 - Please send the repo URL or a zip file to vbrazo@gmail.com
-  - Provide a easy setup
+- Provide a easy setup
