@@ -38,3 +38,7 @@ The UI should have:
     - main.temp_max
 
 We aren't providing a mockup because we want to see how you would organize the objects in your storyboard.
+
+### How you should deliver this project
+
+- Send the repo URL or a zip file to vbrazo@gmail.com

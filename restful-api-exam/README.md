@@ -21,7 +21,11 @@ The following routes should return JSON response:
 - /ad_groups
 - /expanded_text_ad
 
-Please host your demo on Heroku and send Vitor your project on Skype/email.
+### How you should deliver this project
+
+- Please host your demo on Heroku
+- Send the repo URL or a zip file to vbrazo@gmail.com
+- Provide a easy setup
 
 ``` ruby
 # Create a restful API based on this JSON response
