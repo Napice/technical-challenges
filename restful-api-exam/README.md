@@ -1,11 +1,12 @@
 # RESTful API exam
 
 You should create:
-- models 
+- a MVC architecture
+- a database with models 
 - controllers
 - GET requests
-- JSON responses 
-- tests for your controllers and models
+- when you do a GET request, you should return JSON responses 
+- tests for your controllers and models - TDD x BDD
 
 The following routes should return JSON response:
 
@@ -13,7 +14,7 @@ The following routes should return JSON response:
 - /ad_groups
 - /expanded_text_ad
 
-Please host your demo on Heroku. 
+Please host your demo on Heroku and send Vitor your project on Skype/email.
 
 ``` ruby
 # Create a restful API based on this JSON response
