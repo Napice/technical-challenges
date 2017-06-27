@@ -5,13 +5,14 @@ Create a simple RESTful API.
 ### Important points
 
 You should create:
-- a MVC architecture
-- a database with models 
-- controllers
-- GET requests
-- when you do a GET request, you should return JSON responses 
+- a MVC architecture. I mean.. a database with models, controllers and views
+- a few GET requests to the routes that we'll provide below
+  - when you do a GET request, you should return JSON responses 
+  - Once you read the json, you should cache the data. If you request the data again, you should read the cached info instead of doing another GET request.
+- a few POST requests to add new records to your models
+- a few PUT requests to update records
+- a few DELETE requests to remove records
 - tests for your controllers and models - TDD x BDD
-- Once you read the json, you should cache the data. If you request the data again, you should read the cached info instead of doing another GET request.
 
 ### Instructions
 
@@ -23,8 +24,8 @@ The following routes should return JSON response:
 
 ### How you should deliver this project
 
-- Please host your demo on Heroku
-- Send the repo URL or a zip file to vbrazo@gmail.com
+- You could host your demo on Heroku if you think that would be a good idea
+- Please send the repo URL or a zip file to vbrazo@gmail.com
 - Provide a easy setup
 
 ``` ruby
